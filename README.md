@@ -91,10 +91,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuarty&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"  
+    style = "margin: 30"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuarty&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
