@@ -2,7 +2,7 @@
 
 **`Desenvolvedor python`**
 
-**Olá! Me chamo Leon sou um entusiasta da programação, com foco em desenvolvimento em Python. Também tenho experiência em JavaScript e frontend, o que me permite criar soluções completas e dinâmicas. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e transformar ideias em realidade!**
+Olá! Me chamo Leon sou um entusiasta da programação, com foco em desenvolvimento em Python. Também tenho experiência em JavaScript e frontend, o que me permite criar soluções completas e dinâmicas. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e transformar ideias em realidade!
 
 ---
 
