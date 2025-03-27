@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Leon B.
+# 🗻 Leon B.
 
 **`Desenvolvedor python`**
 
