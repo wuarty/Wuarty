@@ -1,8 +1,8 @@
 # 🗻 Leon B.
 
-**`Desenvolvedor python`**
+**`Desenvolvedor Python`**
 
-Olá! Me chamo Leon sou um entusiasta da programação, com foco em desenvolvimento em Python. Também tenho experiência em JavaScript e frontend, o que me permite criar soluções completas e dinâmicas. Estou sempre em busca de novos desafios para aprimorar minhas habilidades!
+
 
 ---
 
@@ -83,9 +83,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <div>
   <a href="https://github.com/Wuarty">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuarty&layout=compact&langs_count=7&theme=midnight-purple"/>
-
-
 </div>
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikolaslopes/nikolaslopes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikolaslopes/nikolaslopes/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nikolaslopes/nikolaslopes/output/github-contribution-grid-snake.svg">
+  </picture>
 
 
 </p>
