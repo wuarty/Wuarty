@@ -79,20 +79,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 <br/>
 
-### 📊 Estatísticas
-
 <p>
 <div>
   <a href="https://github.com/Wuarty">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuarty&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 50px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Wuarty&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
-  />
+
 </div>
 
 
